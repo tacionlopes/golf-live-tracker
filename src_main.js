@@ -1,1 +1,0 @@
-document.getElementById('root').innerHTML = '<h1>Golf Live Tracker PWA funcionando!</h1>';
