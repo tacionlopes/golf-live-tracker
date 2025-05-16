@@ -1,9 +1,0 @@
-{
-  "name": "Golf Live Tracker",
-  "short_name": "GolfTracker",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#0066cc",
-  "icons": []
-}
